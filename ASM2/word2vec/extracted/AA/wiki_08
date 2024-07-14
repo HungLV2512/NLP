@@ -1,0 +1,503 @@
+<doc id="12430742" url="https://vi.wikipedia.org/wiki?curid=12430742" title="AVG AntiVirus">
+AVG AntiVirus
+
+AVG AntiVirus (trước đây là AVG, viết tắt của Anti-Virus Guard) là một phần mềm diệt virus được phát triển bởi AVG Technologies, một công ty con của Avast Software. Nó có sẵn cho Windows, macOS và Android.
+Lịch sử.
+Thương hiệu AVG xuất phát từ sản phẩm đầu tiên của Grisoft, "Anti-Virus Guard", ra mắt vào năm 1992 tại Cộng hòa Séc. Năm 1997, các giấy phép AVG đầu tiên đã được bán ở Đức và Anh. AVG đã được giới thiệu ở Hoa Kỳ vào năm 1998.
+AVG Free Edition giúp nâng cao nhận thức về dòng sản phẩm AVG
+. Trong năm 2006, gói bảo mật AVG đã tăng lên bao gồm chống phần mềm gián điệp, như AVG Technologies đã mua lại
+ewido Networks, một nhóm chống phần mềm gián điệp
+. Cùng năm đó, Microsoft thông báo rằng các thành phần AVG sẽ có sẵn trực tiếp trong Windows Vista. AVG Technologies mua lại phòng thí nghiệm phòng chống khai thác (XPL) vào tháng 12 năm 2007, và kết hợp công nghệ tìm kiếm và lướt web an toàn LinkScanner của công ty vào sản phẩm bảo mật AVG 8.0 được phát hành vào tháng 3 năm 2008. Vào tháng 1 năm 2009, AVG Technologies đã mua lại Sana Security, một nhà phát triển phần mềm phòng chống trộm danh tính. Phần mềm này được kết hợp vào các sản phẩm bảo mật AVG được phát hành vào tháng 3 năm 2009.
+Theo AVG Technologies, công ty có hơn 200 triệu người dùng hoạt động trên toàn thế giới, bao gồm hơn 100 triệu người sử dụng sản phẩm và dịch vụ của họ trên thiết bị di động
+Vào ngày 7 tháng 7 năm 2016, Avast thông báo thỏa thuận mua AVG với giá 1,3 tỷ USD.
+Hỗ trợ nền tảng.
+AVG cung cấp AVG AntiVirus Free cho  Windows, "AVG AntiVirus for Mac" cho macOS, và "AVG AntiVirus for Android" cho các thiết bị Android. Tất cả là sản phẩm có bản quyền: Chúng được tự do tải xuống, cài đặt, cập nhật và sử dụng, nhưng để được hỗ trợ kỹ thuật, một kế hoạch phí bảo hiểm phải được mua.
+Tính năng.
+AVG có hầu hết các tính năng phổ biến hiện có trong các chương trình chống virus và Internet hiện đại, bao gồm quét định kỳ, quét email gửi và nhận (bao gồm thêm phần chân trang vào email), khả năng "sửa chữa" một số tập tin bị nhiễm virus, và một khu vực kiểm định ("két chứa virus") trong đó giữ các tập tin bị nhiễm.
+LinkScanner.
+Công nghệ LinkScanner đang chờ cấp bằng sáng chế từ Exploit Prevention Labs và được tích hợp vào hầu hết các sản phẩm của AVG cung cấp khả năng bảo vệ cập nhật theo thời gian thực chống lại các cuộc tấn công khai thác. LinkScanner bao gồm: Search-Shield – một thành phần tìm kiếm an toàn đặt xếp hạng an toàn bên cạnh mỗi liên kết trong Google, Yahoo! và kết quả tìm kiếm MSN; cộng thêm Active Surf-Shield – một thành phần lướt an toàn quét nội dung của một trang web trong thời gian thực để đảm bảo nó được mở an toàn
+. Các mối quan tâm về phân tích web đã được thực hiện
+LinkScanner một thành phần gây tranh cãi
+(xem phía dưới "Mối liên quan LinkScanner").
+Mối liên quan LinkScanner.
+Khi AVG 8.0 được phát hành lần đầu tiên, tính năng tìm kiếm an toàn LinkScanner của nó đã được hiển thị làm tăng lưu lượng truy cập trên các trang web xuất hiện cao trong các trang kết quả tìm kiếm.
+Kể từ khi LinkScanner giả mạo việc quét từ trình duyệt Internet Explorer 6 khi nó cho phép mỗi trang được liệt kê trong kết quả tìm kiếm, các bản ghi sử dụng trang web đã cho thấy các thống kê khách truy cập trang web không chính xác và quá tải.
+Việc kiểm tra trước mỗi liên kết trong kết quả tìm kiếm cũng khiến các trang web chuyển nhiều dữ liệu hơn bình thường, dẫn đến việc sử dụng băng thông cao hơn cho các nhà khai thác trang web và hiệu suất chậm cho người dùng.
+ AVG ban đầu cho biết các quản trị viên trang web có thể lọc lưu lượng truy cập LinkScanner ra khỏi số liệu thống kê trang web của họ, để lại vấn đề sử dụng băng thông quá mức vẫn phải được giải quyết.
+ Quảng cáo Pay-per-click không bị ảnh hưởng bởi sự gia tăng lưu lượng truy cập.
+AVG Online Shield.
+AVG Online Shield là một tính năng, được thiết kế để kiểm tra các tập tin và đảm bảo chúng an toàn. AVG Online Shield cũng đảm bảo sự an toàn của trao đổi tệp tin thông qua nhắn tin tức thời và khách hàng VoIP.
+Để đáp ứng các khiếu nại, AVG đã thông báo rằng từ ngày 9 tháng 7 năm 2008 "Search-Shield sẽ không quét từng kết quả tìm kiếm trực tuyến cho các khai thác mới, gây ra sự đột biến mà các quản trị web đã giải quyết với chúng tôi", phát hành một bản xây dựng mới vào ngày đó áp dụng một danh sách đen địa phương, sau đó tìm nạp trước và quét chỉ những liên kết được nhấp bởi người dùng.
+Tranh cãi.
+Vào năm 2014, có rất nhiều báo cáo kể từ năm 2012 rằng AVG SafeGuard Toolbar tự cài đặt nếu không có sự đồng ý của người dùng, như một phản ứng phụ của việc cài đặt các ứng dụng khác. Các chương trình thanh công cụ dường như gây ra vấn đề RAM đáng kể và có thể được coi là xâm nhập
+chương trình không mong muốn (PUP). Sau khi cài đặt, thanh công cụ AVG hầu như không thể gỡ bỏ. Trình gỡ cài đặt thanh công cụ không hoạt động, thay vì cài đặt lại tiện ích nếu xóa thủ công. Do đó, nhiều cuộc thảo luận và các bài đăng trên blog đã mô tả các thủ tục phức tạp để loại bỏ thanh công cụ AVG, mỗi kết quả rất hỗn hợp.
+Vào tháng 9 năm 2015, AVG thông báo sẽ bắt đầu theo dõi người dùng để kiếm lợi nhuận, phân tích dữ liệu của họ để bán cho ngành quảng cáo. Giải pháp này đã nhận được những lời chỉ trích từ người tiêu dùng, báo chí và ngành công nghiệp an ninh vì nhiều người sử dụng đã sử dụng phần mềm này để tự bảo vệ mình khỏi spyware và không mong đợi các chức năng của phần mềm gián điệp sẽ "ẩn" trong phần mềm bảo mật.
+Vào tháng 12 năm 2015, tiện ích "AVG Web TuneUp"
+Google Chrome (tự động cài đặt với AVG AntiVirus) đã được tiết lộ có chứa nhiều lỗ hổng bảo mật quan trọng. Đáng chú ý nhất là lịch sử duyệt web của Chrome có thể bị phơi bày với bất kỳ trang web nào, cookie từ bất kỳ trang nào người dùng đã truy cập có thể bị kẻ tấn công đọc, và các vấn đề về cross-site scripting (XSS) có thể cho phép bất kỳ trang web nào để thực thi mã tùy ý (như một tên miền khác).
+Lỗ hổng XSS đã cho phép thư của người dùng từ "mail.google.com" được đọc bởi bất kỳ trang web nào, hoặc thông tin tài chính phải được đọc từ trang web ngân hàng trực tuyến của người dùng. Nhóm AVG đã sửa lỗi này bằng cách chỉ cho phép "mysearch.avg.com" và "webtuneup.avg.com" để thực hiện các tập lệnh này. Mặc dù phương pháp khắc phục này, kẻ tấn công có thể tận dụng bất kỳ cuộc tấn công nào nếu một lỗ hổng XSS đã được tìm thấy trên các trang web AVG. Tính đến tháng 4 năm 2016, Web TuneUp vẫn không có sẵn để tải xuống từ trang web của AVG.
+Tiếp nhận.
+AVG Antivirus Free 2012 đã được chọn làm PC Magazine Editors Choice trong danh mục chống virus miễn phí. AVG AntiVirus Free 2015 nhận được huy hiệu Editor Choice của SoftChamp.
+
+</doc>
+<doc id="12430745" url="https://vi.wikipedia.org/wiki?curid=12430745" title="Gonna Make You Sweat (Everybody Dance Now)">
+Gonna Make You Sweat (Everybody Dance Now)
+
+"Gonna Make You Sweat (Everybody Dance Now)" là một bài hát của nhóm nhạc nước Mỹ C+C Music Factory hợp tác với nghệ sĩ thu âm người Mỹ Freedom Williams và Martha Wash cho album phòng thu đầu tay của họ, "Gonna Make You Sweat" (1990). Nó được phát hành vào ngày 18 tháng 11 năm 1990 như là đĩa đơn đầu trích từ album bởi Columbia Records, đồng thời là đĩa đơn đầu tay trong sự nghiệp của C+C Music Factory. Bài hát được đồng viết lời bởi thành viên của nhóm Robert Clivillés với Williams, và được sản xuất bởi Clivillés và thành viên còn lại David Cole, trong đó phần rap được thể hiện bởi Williams và giọng ca nữ chính của Wash với đoạn hook nổi tiếng "Everybody Dance Now". Ban đầu, những đóng góp của Wash không được đề cập trong album lẫn video ca nhạc của bài hát, và đã dẫn đến những tranh chấp giữa cô và những nhà sản xuất của nhóm Clivillés and Cole, nhưng sau đó đã được giải quyết qua việc đề cập tên của Wash trong những lần phát hành tiếp theo.
+Đón nhận.
+Sau khi phát hành, "Gonna Make You Sweat (Everybody Dance Now)" nhận được những phản ứng tích cực từ các nhà phê bình âm nhạc, trong đó họ đánh giá cao quá trình sản xuất của nó cũng như chất giọng của Williams và Wash thể hiện trong bài hát. Nó còn gặt hái nhiều giải thưởng và đề cử tại những lễ trao giải lớn, bao gồm chiến thắng giải thưởng Âm nhạc Mỹ và giải thưởng âm nhạc "Billboard" cho Đĩa đơn Dance xuất sắc nhất, cũng như lọt vào danh sách những bản nhạc dance hay nhất mọi thời đại của nhiều ấn phẩm và tổ chức âm nhạc, bao gồm vị trí thứ chín trong danh sách "100 Bài hát Dance vĩ đại nhất" của VH1. Bài hát cũng đạt được những thành công vượt trội về mặt thương mại, đứng đầu các bảng xếp hạng ở Áo, Đức và Thụy Sĩ, và lọt vào top 10 ở nhiều hầu hết những quốc gia nó xuất hiện, như vươn đến top 5 ở nhiều thị trường lớn như Úc, Bỉ, Hà Lan, New Zealand, Na Uy, Tây Ban Nha, Thụy Điển và Vương quốc Anh. Tại Hoa Kỳ, "Gonna Make You Sweat (Everybody Dance Now)" đạt vị trí số một trên bảng xếp hạng "Billboard" Hot 100 trong hai tuần liên tiếp, trở thành đĩa đơn quán quân đầu tiên và duy nhất của nhóm trên bảng xếp hạng.
+Video âm nhạc.
+Video ca nhạc cho "Gonna Make You Sweat (Everybody Dance Now)" được đạo diễn bởi Marcus Nispel, trong đó bao gồm những cảnh nhiều vũ công nhảy múa dưới phông nền trắng, bên cạnh phân đoạn của Wash được nhép lại bởi Zelma Davis. Nó đã nhận được nhiều lượt yêu cầu phát sóng trên những kênh truyền hình âm nhạc như VH1, BET và MTV, và chiến thắng hai hạng mục trên tổng số sáu đề cử tại giải Video âm nhạc của MTV năm 1991 cho Video Dance xuất sắc nhất và Video có vũ đạo xuất sắc nhất. Để quảng bá bài hát, C+C Music Factory đã trình diễn "Gonna Make You Sweat (Everybody Dance Now)" trên nhiều chương trình truyền hình và lễ trao giải lớn, như giải thưởng âm nhạc "Billboard" năm 1991 và giải Video âm nhạc của MTV năm 1991. Được ghi nhận là bài hát trứ danh trong sự nghiệp của nhóm, bài hát đã xuất hiện trong nhiều tác phẩm điện ảnh và truyền hình, bao gồm "The Simpsons", "American Dad!", "", "Sister Act" và "Space Jam".
+
+</doc>
+<doc id="12430747" url="https://vi.wikipedia.org/wiki?curid=12430747" title="Giác Khoái Pháp Thân Vương">
+Giác Khoái Pháp Thân Vương
+
+
+
+</doc>
+<doc id="12430748" url="https://vi.wikipedia.org/wiki?curid=12430748" title="Giác Khoái Pháp Thân vương">
+Giác Khoái Pháp Thân vương
+
+
+
+</doc>
+<doc id="12430750" url="https://vi.wikipedia.org/wiki?curid=12430750" title="Uno (trò chơi bài)">
+Uno (trò chơi bài)
+
+Uno (; tiếng Ý và tiếng Tây Ban Nha: "một", cách điệu: UNO) là một trò chơi bài của Mỹ được chơi cùng với một bộ bài đặc biệt. Nguyên tắc chung của trò chơi được lấy từ trò chơi bài Crazy Eights. Trò chơi được Merle Robbins ở Reading, một vùng ngoại ô của Cincinnati, bang Ohio, Mỹ, phát triển vào năm 1971. Nó bắt đầu trở thành một nhãn hiệu của hãng Mattel từ năm 1992. Khi mọi người xung quanh bắt đầu quen và chơi Uno thường xuyên hơn, Robbins đã chi 8.000 đô-la Mỹ để sản xuất 5.000 bộ bài này. Ban đầu, Robbins bán bài ở tiệm cắt tóc của gia đình, sau đó, ông bắt đầu mở rộng ra địa phương. Robbins sau đó bán quyền sở hữu của bài UNO cho một nhóm bạn do Robert Tezak dẫn đầu, một chủ cửa tiệm dịch vụ tang lễ ở Joliet, Illinois với giá 50.000 đô-la Mỹ cộng thêm tiền bản quyền tác giả là 10 xu cho mỗi bộ bài. Tezak thành lập tập đoàn International Games, Inc., để bán UNO ra thị trường, với các văn phòng được đặt tại cửa tiệm của ông. Trò chơi được sản xuất bởi Lewis Saltzman của công ty in ấn Saltzman Printers ở Maywood, Illinois. Năm 1992, International Games trở thành một công ty con thuộc Mattel.
+Lối chơi.
+Có thể chơi cá nhân hoặc chơi theo cặp hai người, theo nhóm.
+Thời gian.
+Tùy vào chơi Uno điện tử trên máy tính, điện thoại di động hay chơi bằng bài giấy, thời gian chơi có thể dao động từ vài phút đến hơn một giờ.
+Số lượng người chơi.
+Lượng người tham gia trò chơi từ 2 - 10
+Luật chơi.
+Mở màn.
+Phần bài còn dư để giữa khu vực chơi để làm chồng bài bốc.
+Bắt đầu chơi.
+Mỗi lượt người chơi chỉ được đánh một lá bài. Người chơi đánh theo nguyên tắc "cùng số hoặc cùng màu", tức lá bài được đánh ra giống số/ký hiệu, giống màu hoặc lá bài đặc biệt có thể đổi màu.
+"Ví dụ với bàn chơi bốn người A, B, C và D. Thứ tự đánh bài từ A đến D."
+Khi A đánh lá bài số 3 màu vàng:
+Khi còn 2 lá bài trên tay và đến lượt đánh: trong khi đánh một lá bài xuống phải hô "UNO!" để thông báo cho cả bàn chơi. Nếu đánh xuống mà không hô UNO và bị đối phương bắt lỗi, người chơi phải bốc thêm 2 lá bài. Thời điểm hợp lệ để bắt lỗi không hô "UNO!" là sau khi lá bài chạm xấp bài bỏ cho tới khi người chơi kế tiếp bắt đầu đánh. Nếu chỉ còn 1 lá mà không hô "UNO!" mà không ai bắt lỗi thì sẽ không bị phạt bốc 2 lá.
+"Ví dụ:" A còn hai lá bài, A đánh 1 lá xuống và không hô "UNO!", bị C phát hiện, A phải bốc thêm 2 lá. Lượt chơi không bị ảnh hưởng, B là người tiếp bài.
+Người đánh hết bài trước là người chiến thắng ván chơi.
+Nếu lá cuối cùng yêu cầu người chơi tiếp theo rút, người chơi tiếp theo vẫn phải rút.
+Cách tính điểm.
+Sau khi kết thúc một ván, những người chơi còn lại cộng tổng điểm các lá bài trên tay bản thân lại.
+Tổng điểm của tất cả được cộng vào điểm của người chiến thắng. Tiếp tục chơi đến khi có người vượt qua mốc chiến thắng (thường là 500).
+Các lá bài.
+Một bộ bài Uno tiêu chuẩn có 108 lá bài hoặc 112.
+Lá bài số.
+Các lá bài này được chia ra 4 màu: đỏ, vàng, lục, lam; với mỗi tông màu, chúng lại được đánh số lớn dần từ 0 đến 9. Có 19 lá bài số trên mỗi màu. 
+Lá bài đặc biệt.
+Bên cạnh các lá bài số là những lá bài đặc biệt, bao gồm:
+Một số luật khác.
+Các luật được trò chơi cung cấp.
+Luật cộng dồn (stacking).
+Để tránh việc bốc bài vì đối phương đánh các lá cộng, thì người chơi có thể đánh các lá bài cộng khác để dồn số lượng bài bị cộng sang người chơi tiếp theo
+"Ví dụ:"
+Khi A đánh lá Cộng 2 thì B có thể:
+Người chơi cũng có thể đánh lá Đổi màu cộng 4 khi cộng dồn. Tuy nhiên, khi lá cuối cùng được đánh là Đổi màu cộng 4, không được phép sử dụng các lá bài Cộng 2 để cộng dồn
+Luật đổi bài (0-7).
+Các lá số thường không có tác dụng, nhưng nếu áp dụng luật này vào trong trò chơi thì các lá số 7 và số 0 (màu bất kì) sẽ có năng lực:
+"Vi dụ:"
+Nếu A đánh Lá số 0 thì A sẽ đưa bài của mình cho B, B đưa cho C, C đưa cho D và D đưa cho A.
+Luật bốc tiếp.
+Khi luật được áp dụng, mỗi khi một người chơi không có lá nào có thể sử dụng để đánh thì thay vì chỉ bốc một lá như thường thì phải bốc cho tới khi tìm được một lá đánh được.
+Các luật do người chơi tự chế.
+Các luật dưới đây là do người chơi tự chế và không có trên các trò chơi Uno trên máy tính
+Luật đập bài.
+Khi áp dụng luật thì khi Lá số 6 được đánh xuống thì mọi người chơi phải đặt tay lên lá bài, người chơi chậm nhất sẽ phải bốc 2 lá.
+"Ví dụ:"
+A đánh Lá số 6
+A, B và D đều đặt tay xuống lá.
+C đặt tay xuống chậm nhất thì phải bốc 2 lá.
+Luật nhảy vào.
+Khi một người chơi có lá bài tương đương (giống màu và ký tự) thì người chơi đó có thể "nhảy vào" (đánh lá đó) mặc dù chưa đến lượt của người chơi đó.
+"Ví dụ:"
+C đánh lá 9 xanh lá, tới lượt D nhưng A lại có lá 9 xanh lá tương đương với lá mới đánh. Lúc này A:
+Luật được lấy cảm hứng từ các loại bài khác.
+Luật tứ quý.
+Khi một người chơi có 4 lá số giống nhau (đôi khi thì cũng có thể là bao nhiêu lá tuỳ thích), người chơi có thể đánh các lá đó ra. Tuy nhiên, lá bài ở dưới cùng phải cùng số hoặc cùng màu với lá bài trên cùng của sấp bài đánh
+
+</doc>
+<doc id="12430757" url="https://vi.wikipedia.org/wiki?curid=12430757" title="Bài Uno">
+Bài Uno
+
+
+
+</doc>
+<doc id="12430761" url="https://vi.wikipedia.org/wiki?curid=12430761" title="Lloyd Sherr">
+Lloyd Sherr
+
+Lloyd Sherr (sinh ngày 28 tháng 2 năm 1956) là một diễn viên. Ông đã đóng nhiều vai trong các phim điện ảnh và phim truyền hình, có lẽ đáng chú ý nhất là diễn xuất con vẹt Fillmore trong "Cars 2".
+Ông sinh ra tại Los Angeles, California vào năm 1956.
+
+</doc>
+<doc id="12430767" url="https://vi.wikipedia.org/wiki?curid=12430767" title="Bộ trưởng Bộ Tài nguyên và Môi trường (Việt Nam)">
+Bộ trưởng Bộ Tài nguyên và Môi trường (Việt Nam)
+
+Bộ trưởng Bộ Tài nguyên và Môi trường Việt Nam là người đứng đầu Bộ Tài nguyên và Môi trường Việt Nam. Đồng thời là thành viên của Chính phủ Việt Nam chịu trách nhiệm quản lý trong lĩnh vực đất đai, tài nguyên (nước, khoáng sản), địa chất; môi trường; khí tượng thủy văn; biến đổi khí hậu; đo đạc và bản đồ; quản lý tổng hợp tài nguyên và bảo vệ môi trường biển và hải đảo; viễn thám ở Việt Nam.
+Bí thư Tỉnh ủy Hà Giang Đặng Quốc Khánh tuyên thệ nhậm chức Bộ trưởng Bộ Tài nguyên và Môi trường trước Quốc hội Việt Nam ngày 22 tháng 05 năm 2023.
+Chức năng và nhiệm vụ.
+Bộ trưởng Bộ Tài nguyên và Môi trường có chức năng và nhiệm vụ sau đây:
+Quyền hạn.
+Bộ trưởng có những có quyền hạn sau:
+Điều kiện trở thành Bộ trưởng.
+Một công dân của Việt Nam từ 35 tuổi hoặc cao hơn có thể trở thành một ứng viên Bộ trưởng. Ứng viên Bộ trưởng phải đủ những điều kiện sau đây:
+
+</doc>
+<doc id="12430768" url="https://vi.wikipedia.org/wiki?curid=12430768" title="Margaret Pole, Nữ bá tước Salisbury">
+Margaret Pole, Nữ bá tước Salisbury
+
+
+
+</doc>
+<doc id="12430771" url="https://vi.wikipedia.org/wiki?curid=12430771" title="Suối Đắk R'Tih">
+Suối Đắk R'Tih
+
+Đăk R’tih hay Đắk R’tih là phụ lưu cấp 2 của sông Đồng Nai, chảy ở huyện Tuy Đức tỉnh Đắk Nông, Việt Nam .
+Dòng chảy.
+Đăk R’tih bắt nguồn từ các suối ở vùng núi xã Đăk Buk So và Đăk R'Tih huyện Tuy Đức. 
+Đăk R’tih chảy uốn lượn về hướng nam đến thị trấn Kiến Đức huyện Đăk R’lấp thì đổi hướng đông nam rồi hướng đông. Khi đến gần thành phố Gia Nghĩa và quốc lộ 14 thì nó tiếp nhận nước từ dòng "Đắk N'Drung", chuyển hướng nam và đổ vào dòng "sông Đắk Nông" 
+Sau đó sông Đắk Nông đổ vào sông Đồng Nai .
+Thủy điện.
+Thủy điện Đăk R’Tih xây dựng trên dòng Đăk R’tih tại vùng đất giáp ranh thị xã Gia Nghĩa và xã Nhân Cơ huyện Đăk R’lấp tỉnh Đắk Nông, có công suất lắp máy 144 MW, hoàn thành tháng 8/2011 .
+
+</doc>
+<doc id="12430772" url="https://vi.wikipedia.org/wiki?curid=12430772" title="Huyện Thổ Nhĩ Kỳ">
+Huyện Thổ Nhĩ Kỳ
+
+
+
+</doc>
+<doc id="12430773" url="https://vi.wikipedia.org/wiki?curid=12430773" title="Đắk R’tih (suối)">
+Đắk R’tih (suối)
+
+
+
+</doc>
+<doc id="12430774" url="https://vi.wikipedia.org/wiki?curid=12430774" title="Italia's Next Top Model (mùa 3)">
+Italia's Next Top Model (mùa 3)
+
+Italia's Next Top Model, Mùa 3 là mùa thứ ba của Italia's Next Top Model được phát sóng trên SKY Uno từ tháng 10 năm 2009 đến tháng 12 năm 2009.
+Điểm đến quốc tế của mùa này là Barcelona &amp; Marseille cho top 4.
+Người chiến thắng trong cuộc thi mùa này là Anastasia Silveri, 24 tuổi từ Chieti. Cô giành được: 1 hợp đồng người mẫu với "d’Management Group" trong 1 năm và chiến dịch quảng cáo cho "Max Factor" trị giá €150,000.
+Các thí sinh.
+"Tính tuổi lúc tham gia ghi hình"
+Thứ tự gọi tên.
+Các thử thách.
+"Trình diễn thời trang"
+"Buổi chụp hình"
+
+</doc>
+<doc id="12430775" url="https://vi.wikipedia.org/wiki?curid=12430775" title="You're Makin' Me High">
+You're Makin' Me High
+
+"You're Makin' Me High" là một bài hát của nghệ sĩ thu âm người Mỹ Toni Braxton nằm trong album phòng thu thứ hai của cô, "Secrets" (1996). Nó được phát hành vào ngày 21 tháng 5 năm 1996 như là đĩa đơn đầu tiên trích từ album bởi LaFace Records. Ở Hoa Kỳ, "You're Makin' Me High" được phát hành như là đĩa đơn mặt A đôi với "Let It Flow" mà Braxton thu âm cho của bộ phim năm 1995 "Waiting to Exhale". Bài hát được đồng viết lời và sản xuất bởi Babyface và Bryce Wilson, với nội dung liên quan đến cảm giác thỏa mãn của một người phụ nữ trong tình dục.
+Sau khi phát hành, "You're Makin' Me High" nhận được những phản ứng tích cực từ các nhà phê bình âm nhạc, trong đó họ đánh giá cao quá trình sản xuất của nó cũng như chất giọng của Braxton thể hiện trong bài hát. Nó còn gặt hái nhiều giải thưởng và đề cử tại những lễ trao giải lớn, bao gồm chiến thắng một giải thưởng âm nhạc "Billboard" cho Bài hát R&amp;B hàng đầu và một giải Grammy cho Trình diễn giọng R&amp;B nữ xuất sắc nhất tại lễ trao giải thường niên lần thứ 37. Bài hát cũng đạt được những thành công đáng ghi nhận về mặt thương mại, lọt vào top 10 ở nhiều quốc gia như Úc, Canada, New Zealand và Vương quốc Anh. Tại Hoa Kỳ, "You're Makin' Me High"/"Let It Flow" đạt vị trí số một trên bảng xếp hạng "Billboard" Hot 100 trong một tuần, trở thành đĩa đơn quán quân đầu tiên của Braxton tại đây và được chứng nhận đĩa Bạch kim từ Hiệp hội Công nghiệp ghi âm Mỹ (RIAA).
+Video ca nhạc cho "You're Makin' Me High" được đạo diễn bởi Bille Woodruff, trong đó bao gồm những cảnh Braxton cùng nhóm bạn (với sự tham gia diễn xuất của Erika Alexander, Vivica A. Fox và Tisha Campbell-Martin) đi tìm kiếm người đàn ông phù hợp để hẹn hò, bên cạnh hình ảnh cô trình diễn bài hát dưới phông nền xanh. Nó đã nhận được một đề cử tại giải Video âm nhạc của MTV năm 1996 ở hạng mục Video R&amp;B xuất sắc nhất. Để quảng bá bài hát, Braxton đã trình diễn "You're Makin' Me High" trên nhiều chương trình truyền hình và lễ trao giải lớn, như "The Rosie O'Donnell Show", giải thưởng Âm nhạc Mỹ năm 1997 cũng như trong tất cả những chuyến lưu diễn của cô kể từ khi phát hành. Ngoài ra, bài hát cũng xuất hiện trong nhiều album tuyển tập của Braxton, bao gồm "Ultimate Toni Braxton" (2003), "" (2005) và "The Essential Toni Braxton" (2007).
+
+</doc>
+<doc id="12430784" url="https://vi.wikipedia.org/wiki?curid=12430784" title="Đấu trường">
+Đấu trường
+
+
+
+</doc>
+<doc id="12430786" url="https://vi.wikipedia.org/wiki?curid=12430786" title="Vận động viên Olympic từ Nga tại Thế vận hội Mùa đông 2018">
+Vận động viên Olympic từ Nga tại Thế vận hội Mùa đông 2018
+
+Vận động viên Olympic từ Nga (OAR) (tiếng Anh: "Olympics Athletes from Russia", tiếng Nga: "Олимпийские спортсмены из России/Olimpiyskiye sportsmenyi iz Rossii") là danh xưng chính thức của các vận động viên Nga được phép thi đấu tại Thế vận hội Mùa đông 2018 ở Pyeongchang, Hàn Quốc dưới lá cờ Olympic.
+Các hình thức xử phạt chính thức.
+Vào ngày 5 tháng 12 năm 2017, IOC thông báo rằng Ủy ban Olympic Nga bị cấm tham dự Thế vận hội Mùa đông 2018. Quyết định liên quan đến sự tham gia của các vận động viên Nga trong Thế vận hội đã được thực hiện bởi IOC dựa trên những phát hiện của Ủy ban Truy vấn dưới sự chỉ đạo của Samuel Schmid. Nga có ý định kháng cáo lệnh cấm tới Tòa án Trọng tài Thể thao.
+Trong quá khứ, Vladimir Putin, Tổng thống Nga, và các quan chức khác đã nói sẽ là một sự sỉ nhục đối với Nga nếu các vận động viên của họ không được phép thi đấu dưới lá cờ Nga. Tuy nhiên, phát ngôn viên của ông sau đó nói rằng không có tẩy chay nào. Sau quyết định của IOC, người đứng đầu Chechnya Ramzan Kadyrov đã thông báo rằng không có vận động viên Chechnya sẽ tham gia dưới một lá cờ trung lập. Vào ngày 6 tháng 12, Putin tuyên bố rằng chính phủ Nga sẽ không ngăn cản bất kỳ vận động viên tham gia Thế vận hội như các cá nhân, nhưng đã có những lời kêu gọi tẩy chay của các chính trị gia khác. Hiện vẫn chưa rõ liệu Nga sẽ tài trợ cho vận động viên của mình trong thời gian tới Thế vận hội hay không.
+Vận động viên.
+Dưới đây là danh sách số đối thủ cạnh tranh có thể tham gia vào đại hội thể thao mỗi môn thể thao/phân môn.
+
+</doc>
+<doc id="12430787" url="https://vi.wikipedia.org/wiki?curid=12430787" title="Yên Chiêu Vũ Đế">
+Yên Chiêu Vũ Đế
+
+Yên Chiêu Vũ Đế ("chữ Hán":燕昭武帝) có thể là:
+
+</doc>
+<doc id="12430788" url="https://vi.wikipedia.org/wiki?curid=12430788" title="Yên Cao Tông">
+Yên Cao Tông
+
+Yên Cao Tông ("chữ Hán":燕高宗) có thể là những vị hoàng đế nước Yên sau:
+
+</doc>
+<doc id="12430789" url="https://vi.wikipedia.org/wiki?curid=12430789" title="Nhạc pop tiếng Nhật">
+Nhạc pop tiếng Nhật
+
+
+
+</doc>
+<doc id="12430790" url="https://vi.wikipedia.org/wiki?curid=12430790" title="Nhạc pop tiếng Nhật Bản">
+Nhạc pop tiếng Nhật Bản
+
+
+
+</doc>
+<doc id="12430791" url="https://vi.wikipedia.org/wiki?curid=12430791" title="Thăng Hoa (địa danh)">
+Thăng Hoa (địa danh)
+
+Thăng Hoa là một địa danh dưới thời nhà Hồ nay thuộc Quảng Nam và Bắc Quảng Ngãi. Thăng Hoa được hình thành khi Hồ Hán Thương mang quân chiếm đất Chiêm Thành.
+Năm 1402 Hồ Quý LY cho sáp nhập 4 châu mới chiếm là: Thăng-Hoa-Tư-Nghĩa lấy tên gọi là “Lộ Thăng Hoa” rồi cử Nguyễn Cảnh Chân làm An phủ sứ Lộ Thăng Hoa
+Lịch sử hình thành.
+Năm 1402, Hồ Hán Thương đem quân đánh Chiêm Thành. Quân nhà Hồ thắng lợi, khiến cho vua Chiêm phải dâng 2 mảnh đất Chiêm Động và Cổ Lũy cho nước Đại Ngu. Lúc ấy lãnh thổ nhà Hồ đã kéo dài tới tận Bắc Quảng Ngãi. Sau khi chiếm được lãnh thổ từ Chiêm Thành, cũng trong năm 1402 Hồ Quý Ly cho sáp nhập 4 châu mới chiếm của Chiêm Thành là: Thăng-Hoa-Tư-Nghĩa lấy tên gọi là “Lộ Thăng Hoa” rồi cử Nguyễn Cảnh Chân làm An phủ sứ Lộ Thăng Hoa
+Tới năm 1407, khi nhà Minh mang quân xâm lược, nhà Hồ phải lo chuẩn bị lực lượng để đối đầu với nhà Minh, nước Chiêm Thành có lẽ đã nhân cơ hội đó đã giành lại mảnh đất Thăng Hoa của nhà Hồ. Như vậy là lúc ấy nhà Hồ đã bị mất đi xứ Thăng Hoa và cũng ít lâu sâu, nhà Hồ cũng đã bị thua trận khi giao chiến với nhà Minh.
+Năm 1471, vua Lê Thánh Tông đem quân từ Thăng Long vào chiếm lại đại lộ Thăng Hoa từ nước Chiêm Thành, đặt làm đạo thừa tuyên Quảng Nam và vệ Thăng Hoa. Đạo thừa tuyên Quảng Nam có 3 phủ, 9 huyện. Phủ Thăng Hoa có 3 huyện: Lê Giang (đầu thời nhà Nguyễn đổi thành Lễ Dương, sau chia nhập vào 2 huyện Duy Xuyên và Quế Sơn). 
+
+</doc>
+<doc id="12430792" url="https://vi.wikipedia.org/wiki?curid=12430792" title="Nhạc pop tiếng Hàn">
+Nhạc pop tiếng Hàn
+
+
+
+</doc>
+<doc id="12430793" url="https://vi.wikipedia.org/wiki?curid=12430793" title="Nhạc pop tiếng Hàn Quốc">
+Nhạc pop tiếng Hàn Quốc
+
+
+
+</doc>
+<doc id="12430794" url="https://vi.wikipedia.org/wiki?curid=12430794" title="Three Billboards Outside Ebbing, Missouri">
+Three Billboards Outside Ebbing, Missouri
+
+
+
+</doc>
+<doc id="12430796" url="https://vi.wikipedia.org/wiki?curid=12430796" title="Ulus, Bartın">
+Ulus, Bartın
+
+
+
+</doc>
+<doc id="12430798" url="https://vi.wikipedia.org/wiki?curid=12430798" title="Nazimiye">
+Nazimiye
+
+
+
+</doc>
+<doc id="12430799" url="https://vi.wikipedia.org/wiki?curid=12430799" title="Zile, Tokat">
+Zile, Tokat
+
+
+
+</doc>
+<doc id="12430802" url="https://vi.wikipedia.org/wiki?curid=12430802" title="Eskisehir (tỉnh)">
+Eskisehir (tỉnh)
+
+
+
+</doc>
+<doc id="12430803" url="https://vi.wikipedia.org/wiki?curid=12430803" title="İnönü, Eskişehir">
+İnönü, Eskişehir
+
+
+
+</doc>
+<doc id="12430805" url="https://vi.wikipedia.org/wiki?curid=12430805" title="Ali Baba">
+Ali Baba
+
+
+
+</doc>
+<doc id="12430806" url="https://vi.wikipedia.org/wiki?curid=12430806" title="Alibaba">
+Alibaba
+
+
+
+</doc>
+<doc id="12432912" url="https://vi.wikipedia.org/wiki?curid=12432912" title="Cúp vô địch nam Liên đoàn bóng ném châu Âu">
+Cúp vô địch nam Liên đoàn bóng ném châu Âu
+
+
+
+</doc>
+<doc id="12433213" url="https://vi.wikipedia.org/wiki?curid=12433213" title="Cúp vô địch nữ Liên đoàn bóng ném châu Âu">
+Cúp vô địch nữ Liên đoàn bóng ném châu Âu
+
+
+
+</doc>
+<doc id="12433455" url="https://vi.wikipedia.org/wiki?curid=12433455" title="European Handball Federation">
+European Handball Federation
+
+
+
+</doc>
+<doc id="12433745" url="https://vi.wikipedia.org/wiki?curid=12433745" title="Hạng vô địch nữ Liên đoàn bóng ném châu Âu">
+Hạng vô địch nữ Liên đoàn bóng ném châu Âu
+
+
+
+</doc>
+<doc id="12433750" url="https://vi.wikipedia.org/wiki?curid=12433750" title="Hạng vô địch nam Liên đoàn bóng ném châu Âu">
+Hạng vô địch nam Liên đoàn bóng ném châu Âu
+
+
+
+</doc>
+<doc id="12434254" url="https://vi.wikipedia.org/wiki?curid=12434254" title="Câu lạc bộ bóng ném">
+Câu lạc bộ bóng ném
+
+
+
+</doc>
+<doc id="12434547" url="https://vi.wikipedia.org/wiki?curid=12434547" title="Luật không gửi trả">
+Luật không gửi trả
+
+Luật không gửi trả () là một nguyên tắc cơ bản của luật quốc tế ngăn cấm một quốc gia nhận người tị nạn trả lại cho một quốc gia mà họ có nguy cơ bị khủng bố dựa trên "chủng tộc, tôn giáo, quốc tịch, một nhóm xã hội cụ thể hoặc quan điểm chính trị " (xem Điều 33 dưới đây). Không giống như các trường hợp tị nạn chính trị, nó áp dụng cho những người có lo sợ có thể chứng minh được về chính sách khủng bố căn cứ vào một hạng người nhất định, Luật không gửi trả nói tới việc hồi hương chung của người dân, kể cả người tị nạn về vùng chiến tranh và các thảm họa địa phương khác. Đây là một nguyên tắc của luật tập quán quốc tế, vì nó áp dụng cho cả các quốc gia không phải là thành viên của Công ước về vị thế của người tị nạn 1951 hoặc Nghị định thư về vị thế của người tị nạn 1967. Nó cũng là một nguyên tắc của luật pháp quan hệ của các quốc gia.
+Có tranh cãi liệu Luật không gửi trả có là một chuẩn mực ("jus cogens") của luật pháp quốc tế hay không. Nếu có, luật pháp quốc tế không cho phép hủy bỏ nó vì bất kỳ mục đích hoặc trong bất kỳ trường hợp nào. Cuộc tranh luận về vấn đề này đã được nhắc lại sau vụ tấn công khủng bố ngày 11 tháng 9 năm 2001 tại Hoa Kỳ cũng như các cuộc tấn công đương thời ở châu Âu.
+
+</doc>
+<doc id="12434868" url="https://vi.wikipedia.org/wiki?curid=12434868" title="Người Phiên Dịch (Phim truyền hình)">
+Người Phiên Dịch (Phim truyền hình)
+
+
+
+</doc>
+<doc id="12435715" url="https://vi.wikipedia.org/wiki?curid=12435715" title="Anh em nhà Russo">
+Anh em nhà Russo
+
+Anthony Russo và Joseph V. "Joe" Russo (được biết đến với tên chung là Anh em nhà Russo) là bộ đôi đạo diễn điện ảnh và truyền hình người Mỹ. Bộ đôi thường thực hiện các dự án của họ cùng nhau, và ngoài vai trò đạo diễn, cả hai cũng thường tham gia các dự án với tư cách nhà sản xuất, biên kịch, diễn viên hay nhà dựng phim. Anh em nhà Russo là đạo diễn của một số phim điện ảnh siêu anh hùng thuộc Vũ trụ Điện ảnh Marvel như ' (2014), ' (2016), "" (2018) và (2019). Họ cũng được biết đến với vai trò đạo diễn cho loạt phim truyền hình hài "Arrested Development", vị trí đã giúp cả hai thắng một Giải Emmy.
+Tiểu sử.
+Anthony và Joe Russo được lớn lên tại Cleveland, Ohio, và theo học tại Trường Trung học Benedictine. Ba mẹ họ là Patricia và Basil Russo, một luật sư và cựu thẩm phán. Joe tốt nghiệp Đại học Iowa chuyên ngànnh Ngôn ngữ Anh và Văn học. Anh em nhà Russo sau đó tốt nghiệp Đại học Case Western Reserve University và bắt đầu sự nghiệp đạo diễn, biên kịch và sản xuất cho bộ phim điện ảnh đầu tay mang tên "Pieces." Bộ phim được góp vốn nhờ các khoản vay vốn sinh viên và thẻ tín dụng. Sau khi xem được "Pieces" tại một liên hoan phim, Steven Soderbergh chủ ý tiếp cận bộ đôi và đề nghị được làm nhà sản xuất cho dự án phim tiếp theo của hai anh em, cùng với người cộng sự sản xuất của anh là George Clooney. Dự án này sau đó trở thành bộ phim điện ảnh "Welcome to Collinwood", với sự tham gia diễn xuất của William H. Macy, Sam Rockwell và Clooney.
+
+</doc>
+<doc id="12435981" url="https://vi.wikipedia.org/wiki?curid=12435981" title="Đại Thánh Đế">
+Đại Thánh Đế
+
+Đại Thánh Đế (chữ Hán: 大聖帝) là thụy hiệu của một số vị quân chủ.
+
+</doc>
+<doc id="12436118" url="https://vi.wikipedia.org/wiki?curid=12436118" title="Tống Thiếu đế">
+Tống Thiếu đế
+
+
+
+</doc>
+<doc id="12436346" url="https://vi.wikipedia.org/wiki?curid=12436346" title="Thánh Văn Đế">
+Thánh Văn Đế
+
+Thánh Văn Đế (chữ Hán: 聖文帝) là thụy hiệu hoặc tôn hiệu của một số vị quân chủ.
+
+</doc>
+<doc id="12436978" url="https://vi.wikipedia.org/wiki?curid=12436978" title="Triệu Hiển mất nước">
+Triệu Hiển mất nước
+
+__ĐỔI_HƯỚNG_NHẤT_ĐỊNH__
+
+</doc>
+<doc id="12437254" url="https://vi.wikipedia.org/wiki?curid=12437254" title="Sanchezia (Acanthaceae)">
+Sanchezia (Acanthaceae)
+
+
+
+</doc>
+<doc id="12437273" url="https://vi.wikipedia.org/wiki?curid=12437273" title="Khau Tinh">
+Khau Tinh
+
+
+
+</doc>
+<doc id="12437453" url="https://vi.wikipedia.org/wiki?curid=12437453" title="Suối Nàm Vàng">
+Suối Nàm Vàng
+
+
+
+</doc>
+<doc id="12437969" url="https://vi.wikipedia.org/wiki?curid=12437969" title="Bổ nhiệm giám mục của Giáo hội Công giáo">
+Bổ nhiệm giám mục của Giáo hội Công giáo
+
+Việc bổ nhiệm các giám mục trong Giáo hội Công giáo là một quá trình phức tạp. Các giám mục có thâm niên, các tín hữu, sứ thần Tòa Thánh, các thành viên khác nhau của Giáo triều Rôma và cả giáo hoàng đều có một vai trò trong việc lựa chọn. Tiến trình bổ nhiệm chính xác thay đổi dựa trên một số yếu tố, bao gồm việc giám mục đến từ Giáo hội Công giáo nghi lễ Latinh hoặc là một trong các Giáo hội Công giáo phương Đông, vị trí địa lý của giáo phận, vị trí giáo phận ứng viên được bổ nhiệm và cả việc liệu ứng viên đã được phong chức giám mục trước đây.
+Lịch sử.
+Ban đầu, các giám mục đã được chọn lựa bởi các giáo sĩ địa phương với sự chấp thuận của các giám mục các giáo phận gần đó. "Một vị tân giám mục được bầu đã được đặt vào chức vụ mới và được trao thẩm quyền [...] bằng các giám mục giám sát cuộc bầu cử và thực hiện việc tấn phong." Các giám mục các các giáo phận quan trọng nhất cần phải nhận được sự chấp nhận từ giám mục Roma. Những Giáo phụ đầu tiên của Giáo hội chứng thực việc Giáo hội Rôma với tầm ảnh hướng của giáo phận này, là tâm điểm của thẩm quyền. Họ chứng thực cho sự phụ thuộc của Giáo hội vào Rôma để được tư vấn, giải quyết tranh chấp, và hướng dẫn các vấn đề học thuyết. Ngoài ra, họ cũng đưa ra một vài lưu ý, điển hình là Ignatius của Antioch (khoảng thế kỷ thứ nhất), rằng Rome ""giữ chức vụ chủ tịch" trong số các giáo hội khác". Irenaeus (thế kỷ thứ 2), giải thích, ""vì nguồn gốc cao quý của nó, tất cả các giáo hội khác phải đồng ý" với Roma". Họ cũng nêu nhận định các giáo hội khác hoàn toàn hiệp thông với Rôma và giám mục của Rôma, chính điều đó đã làm nên tính hiệp thông của Giáo hội Công giáo. Điều này cũng thể hiện quan điểm công nhận như Cyprian của Carthage (thế kỷ thứ 3) đã nhận định Roma là "giáo hội chính yếu, trong đó sự hiệp nhất về giáo huấn xuất phát từ nó." Vào thời kỳ của Công đồng Nicaea I vào năm năm 325, các giám mục trưởng (giám mục đô thành) đã có một vai trò quan trọng nhất trong việc lựa chọn tân giám mục. Công đồng quyết định rằng yêu cầu đơn giản nhất của việc bổ nhiệm tân giám mục cũng cần có sự đồng ý của giám mục đô thành.
+Sau đó, các nhà chức trách nhà nước yêu cầu sự chấp thuận của họ cho việc bổ nhiệm các giám mục. Trong thời trung cổ, các nhà cầm quyền không chỉ yêu cầu sự đồng ý của họ đối với một cuộc bầu cử thực hiện bởi các nhà khác mà còn yêu cầu quyền được chọn trực tiếp các giám mục. Cuộc tranh cãi về việc phong chức đã thay đổi đến mức độ nào đó, nhưng sau đó có nhiều vị vua và các cơ quan thế tục khác thực hiện quyền bổ nhiệm hoặc ít nhất là quyền phủ quyết cho đến nửa sau của thế kỷ 20. Vào đầu thế kỷ 19, điều này vẫn còn bình thường, mặc dù sự phản đối của Giáo hội ở Ireland đối với quyền phủ quyết của hoàng gia về việc bổ nhiệm các giám mục, Toà Thánh đã chuẩn bị để trao cho nhà vua Anh.
+Đó là vào năm 1871 rằng một sự thay đổi cơ bản trong luật và thực hành đã bắt đầu diễn ra. Trong năm đó, luật bảo đảm cho Giáo hoàng quyền lựa chọn các giám mục của Vương quốc Ý, tất cả 237 trong số các giám mục, tuy nhiên, việc bổ nhiệm các giám mục Ý thực tế lại rơi vào tay vua Victor Emmanuel II của Ý. Mặc dù giáo hoàng lên án quy định này, nhưng trong bảy tháng tiếp theo, 102 vị giám mục Ý mới đã được bổ nhiệm. Trước khi thống nhất nước Ý, các nhà cai trị khác nhau đã thực hiện các bổ nhiệm của họ, và Giáo hoàng chỉ có quyền bổ nhiệm làm như vậy chỉ trong khu vực lãnh thổ Giáo hoàng. Luật của Pháp đưa ra năm 1905 về tách các Nhà thờ và Nhà nước có tác động tương tự cho việc chỉ định các giám mục trong các lãnh thổ do Pháp kiểm soát. Vào đầu thế kỷ 20, việc bổ nhiệm các giám mục Công giáo là trở nên thực tế gần như phổ quát, ngoại trừ các vùng chịu ảnh hưởng của Tây Ban Nha và Bồ Đào Nha, việc bổ nhiệm giám mục Công giáo vẫn còn trong tay các viên chức dân sự.
+Như vậy, Bộ Giáo luật năm 1917 đã có thể khẳng định rằng, trong Giáo hội Công giáo nghi lễ Latinh, quyết định bổ nhiệm này chỉ thuộc về Giáo hoàng. Trong suốt thế kỷ 20, các đặc quyền còn lại của các nhà cầm quyền thế tục đã giảm dần, đặc biệt là kể từ Công đồng Vatican II (1962-1965), tuyên bố rằng quyền chỉ định và bổ nhiệm các giám mục thuộc về riêng thẩm quyền giáo hội có thẩm quyền và yêu cầu các cơ quan dân sự vẫn còn có quyền và đặc ân trong lĩnh vực này tự nguyện từ bỏ.
+Các giám mục thuộc Giáo hội nghi lễ Latinh.
+Giáo luật điều 401 khoản 1 quy định các giám mục tại các tổng giáo phận/giáo phận (kể cả các hồng y) phải nộp đơn từ chức cho Giáo hoàng khi đến tuổi 75. Một số vị thực hiện việc này sớm hơn để được sự chấp thuận có hiệu lực ngay lập tức khi vừa đạt đến độ tuổi 75. Các giám mục cũng nên đưa ra quyết định từ chức nếu sức khoẻ yếu hoặc các vấn đề nghiêm trọng khác khiến họ không thích hợp để hoàn thành nhiệm vụ của mình. Bức thư từ chức trước hết được nộp cho sứ thần Tòa Thánh hay là khâm sứ Tòa Thánh hoặc đại diện của giáo hoàng tại quốc gia hoặc vùng địa lý. Vị này sau đó chuyển thư đến cứ bộ phận nào của Toà Thánh mà có trách nhiệm đặc biệt đối với việc lựa chọn các giám mục cho đất nước đang đề cập đến: Bộ Truyền giáo Phúc Âm của các Dân tộc trong trường hợp các quốc gia truyền giáo, Thánh bộ về Giáo hội Phương Đông trong trường hợp giám mục ở một số quốc gia Trung Đông và Hy Lạp, Phủ Quốc vụ khanh Tòa Thánh nếu chính phủ của quốc gia đã được trao quyền phản đối "một bản chất chính trị" (không phải là một đảng phái chính trị) hoặc có liên quan đến một số cách khác, nhưng thường là Thánh bộ Giám mục. Thánh bộ trong giáo triều có nghĩa vụ trình bày đề nghị của giám mục về việc từ chức cho giáo hoàng, người có một loạt các lựa chọn từ chối đề nghị từ chức để chấp thuận việc từ chức với hiệu lực ngay lập tức. Trong trường hợp các giám mục giáo phận đã lên đến 75 tuổi, quyết định thông thường là chấp nhận việc từ chức nhưng chỉ có hiệu lực từ ngày công bố việc bổ nhiệm người kế nhiệm, một quyết định được gọi là "chấp thuận nunc pro tunc".
+Nếu từ chức được chấp nhận có hiệu lực ngay lập tức, ngai tòa giám mục (giáo phận) sẽ trống tòa theo quyết định từ giáo hoàng. Việc giáo phận trống tòa cũng có thể ra do việc thuyên chuyển giám mục sang một tòa giám mục giáo phận hoặc vị trí khác, hoặc do cái chết của vị này. Trong trường hợp chấp nhận "chấp thuận nunc pro tunc", giáo phận không trống tòa ngày lập tức, nhưng quá trình dẫn đến bổ nhiệm giám mục kế vị thường diễn ra ra cách nhành chóng, không chậm trễ.
+Một yếu tố quan trọng trong việc lựa chọn một vị giám mục là từ danh sách các linh mục, của cả linh mục giáo phận và linh mục các hội dòng, rằng các giám mục thuộc giáo tỉnh giáo hội hoặc toàn thể Hội đồng giám mục đánh giá phù hợp một cách tổng quát (không tham khảo bất kỳ giáo phận nào) cho việc bổ nhiệm các giám mục. Họ phải lập danh sách này ít nhất ba năm một lần, để nó luôn luôn là danh sách ứng viên tiềm năng mới nhất.
+Khi một giáo phận cụ thể có nhu cầu bổ nhiệm một giám mục cho giáo phận, vị đại diện giáo hoàng (Sứ thần Tòa Thánh hoặc Khâm sứ Tòa Thánh) hỏi một số vị giám mục có thâm niên, hoặc trong trường hợp giáo phận trống tòa, vị tổng đại diện hay giám quản giáo phận soạn thảo một báo cáo về tình hình và nhu cầu của giáo phận. Người được chọn thay thế vị giám mục vừa đệ đơn từ chức đó sẽ được chọn làm giám mục, nếu trong trường hợp trống tòa, giám quản giáo phận hay Giám quản Tông Tòa giáo phận. Đại diện giáo hoàng cũng có nghĩa vụ hỏi ý kiến tổng giám mục đô thành và các giám mục khác trong giáo tỉnh, chủ tịch hội đồng giám mục, và ít nhất là một số thành viên của hội đồng tư vấn và hội nhóm của giáo phận. Ngoài ra, ông cũng có thể tham khảo ý kiến của người khác, cho dù giáo sĩ là linh mục giáo phận hay các dòng tu và kể cả "những người giáo dân có trí tuệ trổi vượt".
+Giáo luật Công giáo nhấn mạnh việc cho phép những người được tư vấn cung cấp thông tin và bày tỏ quan điểm của họ một cách bí mật, đòi hỏi phải được tư vấn "riêng và bí mật". Theo đó, khi tờ Irish Times ngày 12 tháng 4 năm 2007 xuất bản văn bản của bức thư của Tổng Giám mục Giuseppe Lazzarotto, Sứ thần Tòa Thánh tại Ireland, đã hỏi ý kiến của các linh mục về việc chọn vị giám mục tiếp theo của họ, ông nói: "Tất cả các khía cạnh liên quan đến quá trình bổ nhiệm giám mục nên được giải quyết theo chế độ bảo mật nghiêm ngặt nhất, tôi tin tưởng rằng bạn sẽ hiểu rằng tôi không thể rời khỏi thực tiễn này."
+Sứ thần quyết định một danh sách ngắn, thuật ngữ gọi là terna, về ba ứng viên để điều tra thêm và tìm kiếm thông tin chính xác về mỗi người trong số họ. Vì nếu người ta được biết đến rộng rãi rằng một linh mục không phải là người cuối cùng được chọn cho chức vụ này thì người ta có thể nghĩ rằng ông ta đã bị loại vì một số lỗi bản thân từ ông ta (một kết luận vô căn cứ vì tất cả những người được kiểm tra có thể thích hợp nhưng cuối cùng chỉ có một người có thể được lựa chọn), sứ thần sẽ hỏi những người được hỏi ý kiến về các ứng cử viên cách cá nhân từng người để thực hiện sự bảo mật nghiêm ngặt nhất trong nghiên cứu ứng viên. Sau đó ông sẽ gửi cho Tòa thánh danh sách ("terna") của (thông thường là) ba ứng viên có vẻ thích hợp nhất để xem xét, cùng với tất cả các thông tin đã thu thập được từ họ và kèm theo thông tin với những kết luận mà chính bản thân ông rút ra từ bằng chứng ông tìm được.
+Những phẩm chất mà ứng viên phải có được liệt kê tại giáo luật điều 378 khoản 1. Ứng viên cần có độ tuổi ít nhất là 35 tuổi và là một linh mục trong ít nhất 5 năm, ông phải "trổi vượt về đức tin vững vàng, hạnh kiểm tốt, đạo đức, nhiệt thành với các linh hồn, thông thái khôn ngoan và các nhân đức nhân bản, và có những tài năng khác giúp mình có đủ sức chu toàn giáo vụ; ông cũng cần và ứng viên cần nên được thông thạo Kinh thánh, thần học và Giáo luật, và tốt nhất là giữ bằng tiến sĩ ở một trong những lĩnh vực này."
+Các thánh bộ thuộc Giáo triều Rôma chịu trách nhiệm về bổ nhiệm giám mục nghiên cứu tài liệu do sứ thần cung cấp, và có bao gồm đến ý kiến ​​của ông này, nhưng không nhất thiết phải chấp nhận. Nơi này thậm chí còn có thể bác bỏ tất cả các ứng viên mà sứ thần đề nghị và yêu cầu ông chuẩn bị một danh sách khác, hoặc có thể yêu cầu ông cung cấp thêm thông tin về một hoặc nhiều linh mục đã được giới thiệu. Khi Thánh bộ đã quyết định về việc cần bổ nhiệm linh mục nào, cơ quan này cũng sẽ trình bày những kết luận của mình cho giáo hoàng, thỉnh cầu ông xem xét và bổ nhiệm. Nếu giáo hoàng đồng ý, việc bổ nhiệm của giáo hoàng được thông báo cho sứ thần để sứ thần hỏi sự chấp thuận của linh mục được bổ nhiệm và chọn ngày công bố việc bổ nhiệm. Vị tân giám mục được bổ nhiệm có nghĩa vụ phải được tấn phong lên hàng giám mục trong vòng ba tháng kể từ khi cha được bổ nhiệm, và thường việc chuẩn bị cho buổi lễ diễn ra trong khoảng ít nhất một tháng sau khi tin bổ nhiệm được công bố. Nếu buổi lễ tấn phong được tổ chức trong giáo phận, tân giám mục sẽ lên nắm quyền ngay lập tức. Nếu lễ tấn phong diễn ra ở nơi khác, cần có một nghi lễ khác theo yêu cầu sau khi tấn phong, để nhận chức vụ mới của mình tại giáo phận.
+Để hoàn tất quá trình bổ nhiệm và dẫn đến kết luận rõ ràng đòi hỏi nhiều thời gian, thường là phải mất ít nhất chín tháng, và đôi khi nó có thể mất đến hai năm.
+Tiến trình được miêu tả ở trên là cách bình thường để bổ nhiệm giám mục giáo phận. Trong trường hợp một vị giám mục phụ tá, giám mục giáo phận chọn ba linh mục để trình thỉnh nguyện bổ nhiệm, nhưng sứ thần vẫn có nhiệm vụ thu thập thông tin và ý kiến về ứng cử viên, và Thánh Bộ có thể lựa chọn một trong số họ hoặc yêu cầu một danh sách các ứng cử viên khác sẽ được đệ nộp.
+Ở một số quốc gia, hội đồng giáo phận hay một cơ quan khác quyết định về ba cái tên ứng viên tiềm năng để gửi thông qua sứ thần đến Tòa Thánh. Với mỗi ứng viên, sứ thần gửi thông tin ông thu thập được về họ. Nếu cả ba ứng cử viên đều không có ai được Tòa Thánh chấp nhận, hội đồng này sẽ bị yêu cầu trình lên một danh sách khác. Tuy nhiên, Tòa Thánh có thể từ chối toàn bộ danh sách và bổ nhiệm một người nào đó không đề cập đến bởi hội đồng này. Trong các trường hợp khác, hội đồng giáo phận chọn lựa vị tân giám mục qua danh sách ba ứng viên do Tòa Thánh đề nghị.
+Hiện có một vài hội đồng giáo phận tham gia vào việc tuyển chọn các giám mục của 13 trong 27 giáo phận tại Đức (Aachen, Cologne, Essen, Freiburg, Fulda, Hildesheim, Limburg, Mainz, Münster, Osnabrúck, Paderborn, Rottenburg-Stuttgart, Trier), 3 giáo phận tại Thụy Sĩ (Basel, Chur, Sankt Gallen) và 1 giáo phận tại Áo (Salzburg).
+Đối với các Giáo hạt tòng nhân, được thành lập bởi Tông Hiến Anglicanorum Coetibus, vì tôn trọng truyền thống của người Anh giáo, vị Thường vụ sẽ được Giáo hoàng bổ nhiệm từ một trong những ứng viên do Hội đồng Quản trị Giáo hạt tòng nhân đó đề nghị.(Giáo luật điều 4 khoản 1).
+Trong quá khứ, các đặc quyền liên quan đến việc bổ nhiệm các giám mục đã được trao cho các vị vua và các cơ quan dân sự khác. Theo quyết định của Công đồng Vatican II, bộ Giáo luật quy định rằng "trong tương lai, không có quyền hoặc các đặc quyền của việc tuyển chọn, bổ nhiệm, đề cử hay chỉ định các ứng viên giám mục của các cơ quan dân sự được thừa nhập". Trong thực tế, khoảng hơn mười quốc gia, chính quyền dân sự vẫn có quyền tư vấn hoặc thậm chí đề cử ứng viên giám mục.
+Các Giáo hội Công giáo Đông phương.
+Có 23 Giáo hội Công giáo Đông phương với tổng cộng khoảng 20 triệu người đang hiệp thông với Tòa Thánh nhưng các nghi lễ phụng vụ và các hoạt động khác của họ khác nhau về hình thức. Một thượng phụ của giáo hội Công giáo Đông phương tự trị lựa chọn các giám mục của mình để phục vụ trong lãnh thổ riêng của mình, nhưng các giám mục khác lại do Giáo hoàng bổ nhiệm. Trước khi tuyển chọn một giám mục, Hội đồng Thượng phụ xem xét những cái tên ứng viên do các thành viên đề nghị và đưa ra danh sách những người được coi là những ứng cử viên hợp lệ cho nhiệm vụ giám mục; các ứng viên này được thông báo cho Giáo hoàng và bất cứ tên ứng viên nào mà giáo hoàng từ chối đều bị loại ra khỏi danh sách. Khi Hội đồng Thượng phụ của Giáo hội tự trị cần phải bổ nhiệm một giám mục, thì họ không cần phải làm thêm thủ tục nào khác nếu người được chọn đã nằm trong danh sách được giáo hoàng chấp thuận; nhưng nếu ứng viên không có trong danh sách, hội đòng Giáo hội tự trị này cần có sự đồng ý của Giáo hoàng, là điều kiện tiên quyết trước khi hỏi ứng viên về việc có chấp thuận trở thành giám mục. Các thủ tục tương tự cho một Giáo hội tự trị hiệp thông với Giáo hội Công giáo Rôma do một Đại Tổng giám mục đứng đầu. Trong các bản tin chính thức trên các phương tiện truyền thông của Tòa Thánh, các bổ nhiệm này này được công bố dưới hình thức các quyết định của Giáo hội Đông phương, chứ không phải của Giáo hoàng. Thủ tục bổ nhiệm các giám mục của các Giáo hội Đông phương khác và các giám mục của các Giáo hội do Thượng phụ hay một Đại Tổng giám mục phục vụ bên ngoài lãnh thổ của Giáo hội đó thì tương tự như thủ tục các giám mục nghi lễ Latin, và các tin bổ nhiệm được công bố dưới dạng các quyết định của Giáo hoàng.
+
+</doc>
+<doc id="12438363" url="https://vi.wikipedia.org/wiki?curid=12438363" title="PMCID">
+PMCID
+
+
+
+</doc>
+<doc id="12439072" url="https://vi.wikipedia.org/wiki?curid=12439072" title="Triglycerit">
+Triglycerit
+
+
+
+</doc>
+<doc id="12441259" url="https://vi.wikipedia.org/wiki?curid=12441259" title="Giải BAFTA lần thứ 71">
+Giải BAFTA lần thứ 71
+
+Lễ trao Giải thưởng Điện ảnh của Viện hàn lâm Vương quốc Anh lần thứ 71, hay còn gọi là giải BAFTA, được tổ chức vào ngày 18 tháng 2 năm 2018 tại Hội trường Hoàng gia Albert ở Luân Đôn, để vinh danh những tác phẩm điện ảnh của Anh và quốc tế trong năm 2017. Các giải thưởng được trao bởi Viện Hàn lâm Nghệ thuật Điện ảnh và Truyền hình Anh quốc (BAFTA) cho các bộ phim điện ảnh và phim tài liệu đã được công chiếu ở các rạp chiếu phim của Anh trong năm 2017. Sau khi một số vụ xâm hại tình dục trong ngành công nghiệp điện ảnh bị tiết lộ, nhiều người tham dự lễ trao giải đã mặc đồ màu đen hoặc đeo huy hiệu để thể hiện sự ủng hộ của mình đối với phong trào "Time's Up".
+Các phim/ nghệ sĩ được đề cử cho các hạng mục giải thưởng được công bố vào ngày 9 tháng 1 năm 2018 bởi hai người dẫn chương trình Letitia Wright và Natalie Dormer. Phim "The Shape of Water" nhận được số lượng đề cử cao nhất với 12 đề cử ở các hạng mục giải thưởng; tiếp đó là "Darkest Hour" và "Three Billboards Outside Ebbing, Missouri" với 9 đề cử cho mỗi phim. Tương tự như lễ trao giải Quả cầu vàng lần thứ 75, có ý kiến chỉ trích sự vắng bóng các nữ đạo diễn cho được đề cử ở hạng mục đạo diễn xuất sắc nhất, điển hình là trường hợp của Greta Gerwig với phim "Lady Bird".
+Phim "Three Billboards Outside Ebbing, Missouri", do Martin McDonagh làm đạo diễn, thắng năm giải, trong đó có giải Phim hay nhất và Phim Anh hay nhất; nữ diễn viên Frances McDormand giành giải nữ diễn viên chính xuất sắc nhất cho màn thể hiện của cô trong bộ phim. Gary Oldman giành giải nam diễn viên chính xuất sắc nhất với vai diễn Winston Churchill trong phim "Darkest Hour". Guillermo del Toro giành giải đạo diễn xuất sắc nhất với phim "The Shape of Water", đây là một trong ba giải thưởng mà bộ phim này nhận được tại lễ trao giải năm nay. Ở các hạng mục giải thưởng dành cho diễn viên phụ, Allison Janney giành giải Nữ diễn viên phụ xuất sắc nhất với vai diễn trong phim "I, Tonya", còn Sam Rockwell giành giải Nam diễn viên phụ xuất sắc nhất với vai diễn trong phim "Three Billboards". Roger Deakins giành giải BAFTA thứ tư trong sự nghiệp của mình ở hạng mục quay phim xuất sắc nhất với phim "Blade Runner 2049" và Ngài Ridley Scott nhận giải cống hiến với những đóng góp của ông cho ngành điện ảnh; giải thưởng này được trao bởi Công tước xứ Cambridge.
+Phim/ người đoạt giải và các đề cử.
+Các phim/ người được đề cử cho các vị trí giải thưởng được công bố vào ngày 9 tháng 1 năm 2018. Phim và người giành giải được công bố vào ngày 18 tháng 2 năm 2018.
+
+</doc>
+<doc id="12441484" url="https://vi.wikipedia.org/wiki?curid=12441484" title="Kevin Hart">
+Kevin Hart
+
+Kevin Hart (sinh ngày 6 tháng 7 năm 1979) là một nghệ sĩ hài, diễn viên và người dẫn chương trình người Mỹ. Sinh ra và lớn lên ở Philadelphia, Pennsylvania, Hart bắt đầu sự nghiệp của mình sau khi anh chiến thắng một số cuộc thi tấu hài nghiệp dư tại các câu lạc bộ khắp New England, đỉnh cao là bước đột phá thực sự đầu tiên của anh vào năm 2001 khi được Judd Apatow chọn vào một vai diễn thường trực trong loạt phim truyền hình "Undeclared". Loạt phim này chỉ kéo dài một mùa, nhưng anh sớm giành được nhiều vai diễn trong các bộ phim như "Paper Soldiers" (2002), "Scary Movie 3" (2003), "Soul Plane" (2004), "In the Mix" (2005), và "" (2010).
+Danh tiếng trong lĩnh vực hài kịch của Hart tiếp tục phát triển với việc phát hành album đứng đầu đầu tiên của anh, "I'm a Grown Little Man" (2008), và diễn xuất trong các phim "Think Like a Man" (2012), "Grudge Match" (2013), "Ride Along" (2014) và phần kế tiếp, "Ride Along 2" (2016), "About Last Night" (2014), "Get Hard" (2015), "Điệp viên không hoàn hảo" (2016), "Đẳng cấp thú cưng" (2016), ' (2017), và ' (2017).
+Anh cũng phát hành thêm 4 album tấu hài nữa, "Seriously Funny" năm 2010, "Laugh at My Pain" năm 2011, ' năm 2013, và ' năm 2016. Năm 2015, tạp chí "Time" đã công bố Hart là một trong 100 người có ảnh hưởng nhất trên thế giới trong danh sách thường niên "Time 100". Anh cũng đóng vai chính mình và là nhân vật chính trong "Real Husbands of Hollywood".
+Tiểu sử.
+Hart sinh ngày 6 tháng 7 năm 1979 tại Philadelphia, Pennsylvania và lớn lên trong một gia đình với người mẹ đơn thân, Nancy Hart, cùng với anh mình, Robert. Cha của anh, Henry Witherspoon, một người nghiện cocain, luôn vào tù ra khám thường xuyên trong suốt thời thơ ấu của Kevin, và Kevin đã sử dụng sự hài hước như một cách để đối mặt với cuộc sống gia đình khó khăn của mình.
+Sau khi tốt nghiệp trường Trung học George Washington, Hart đã học tại trường Cao đẳng Cộng đồng Philadelphia và chuyển đến thành phố New York. Sau đó anh chuyển đến Brockton, Massachusetts, và tìm được một công việc bán giày tại đây. Anh bắt đầu theo đuổi sự nghiệp diễn hài độc thoại sau khi biểu diễn trong một buổi tối dành cho nghệ sĩ nghiệp dư ở một câu lạc bộ tại Philadelphia.
+Sự nghiệp.
+Diễn viên hài.
+Buổi biểu diễn đầu tiên của Hart diễn ra tại The Laff House ở Philadelphia, với nghệ danh Lil Kev, và buổi diễn không thành công cho lắm. Sự nghiệp của anh khởi đầu tương đối chậm chạp, anh bị la ó nhiều lần khi lên sân khấu, một lần thậm chí có một miếng thịt gà ném vào người anh. Sau những buổi biểu diễn không thành công ban đầu, Hart bắt đầu tham gia các cuộc thi hài kịch khắp tiểu bang Massachusetts, và vận may của anh sớm biến chuyển tốt hơn.
+Hart mất một thời gian dài để phát triển nên một phong cách hài hước độc đáo. Sau một thời gian cố gắng bắt chước những nghệ sĩ hài như Chris Tucker, anh cũng tìm được âm điệu của riêng mình bằng cách đào sâu vào những cảm giác bất an và trải nghiệm cuộc sống của mình. "Vì những điều tôi làm, nó phải là một cuốn sách mở", anh nói. "Nhưng bây giờ, nó là một cuốn sách đang được viết ra."
+Các tour diễn hài kịch của Hart bắt đầu vào năm 2009 với tác phẩm ""I'm a Grown Little Man", tiếp theo là "Seriously Funny" năm 2010, "Laugh at My Pain" năm 2011 và "Let Me Explain"" năm 2013, hai album sau cùng trong số đó cũng được phát hành như quà đính kèm trong các rạp chiếu phim. Hart đạt doanh thu hơn 15 triệu đô từ "Laugh at My Pain", khiến nó trở thành một trong những tour diễn hài hước của năm. Hart cũng có một trò chơi có sẵn thông qua iTunes gọi là "Little Jumpman". Trang Facebook, tài khoản Twitter và kênh YouTube của anh ta đều được kết nối và truy cập qua ứng dụng này. Hầu hết các fan nước ngoài của Hart cũng tìm thấy anh ấy từ YouTube.
+Trong một thông báo vào tháng 10 năm 2013, ABC tuyên bố sẽ thực hiện một tập thí điểm 30 phút dựa trên sự nghiệp diễn hài độc thoại của Hart. Hart không có ý định đảm nhiệm vai chính trong sitcom này, nhưng có kế hoạch đảm nhiệm một vai diễn định kỳ.
+Vào ngày 9 tháng 4 năm 2015, Hart bắt tay vào một chuyến lưu diễn tấu hài thế giới mang tên What Now? Tour tại AT&amp;T Center ở San Antonio, kết thúc vào ngày 7 tháng 8 năm 2016 tại Columbus Civic Center ở Columbus, Georgia.
+Vai trò đóng phim và truyền hình.
+Hart nổi bật từ sự xuất hiện của khách mời trong "Undeclared". Anh đã xuất hiện trong phim "Paper Soldiers". Sau đó, Hart tiếp tục nhận được nhiều sự chú ý từ các bộ phim khác của anh như phim "Scary Movie", "Soul Plane", "The 40-Year Virgin", "Death at a Funeral" và "Little Fockers".
+Anh đóng vai Doug trong bộ phim "The Five-Year Engagement" (2012) và xuất hiện trong cuốn "Think Like a Man", một bộ phim đã thành công. Anh cũng xuất hiện trong phần tiếp theo của bộ phim. Anh đã đóng vai chính anh tham gia vai trò khách mời trong phim "This Is the End". Vào năm 2013, Hart đã vào vai một đạo diễn quyền anh trong trận đấu Grudge Match và xuất hiện trong "Exit Strategy" trong vai Mannequin Head Man. Anh cũng xuất hiện trong "35" và "Ticking".
+Trong năm 2014, Hart đã đóng vai Ben trong "Ride Along", bên cạnh "Ice Cube". Bộ phim nhận được những nhận xét tiêu cực từ các nhà phê bình, nhưng đó là một thành công lớn trong phòng vé. Hart trở lại trong phần tiếp theo, "Ride Along 2", được phát hành vào ngày 15 tháng 1 năm 2016.
+Năm 2013, Hart đồng sáng tạo ra Real Husbands of Hollywood với Chris Spencer. Buổi trình diễn theo Hart cùng với những người nổi tiếng khác trong gia đình (trong đó có Boris Kodjoe, Nelly, Duane Martin, J.B. Smoove, Nick Cannon và Robin Thicke). Thicke đã không trở lại cho mùa thứ hai do sự nghiệp âm nhạc của mình, mặc dù Hart đã nói rằng cánh cửa mở cho Thicke trở lại. Loạt phim này được cố tình quay trong một phong cách tương tự như "Bravo's The Real Housewives". Các tập phim thường xoay quanh những nỗ lực không thành công của anh để leo lên bậc thang xã hội của người nổi tiếng ở Hollywood, và ghen tuông ẩn náu của những người bạn nổi tiếng thành công của anh. Một sneak peek đã được thể hiện dưới dạng một phân đoạn trong BET Awards 2012 và quảng cáo chính thức đã được phát hành vào tháng 10 năm 2012. Cũng trong năm 2015, Hart tham gia bộ phim "Get Hard" với Will Ferrell và "The Wedding Ringer".
+Ngoài diễn xuất, Hart cũng đã tổ chức nhiều buổi lễ khác nhau. Hart lần đầu tiên tổ chức giải BET 2011. Hart sau đó đã tổ chức giải thưởng MTV Video Music Awards 2012. Người bạn lâu năm của anh là Judd Apatow, đạo diễn đã cho anh lần đầu tiên tham gia vào chương trình truyền hình Undeclared, là người đã giới thiệu anh cho buổi biểu diễn này. Hart hy vọng rằng điều này sẽ đưa anh trở thành một người chuyên nghiệp, nói rằng "Hy vọng sau MTV, tất nhiên chúng tôi sẽ nói về Emmy, Oscar, hay bất cứ điều gì." Anh đã tham gia ba số phát sóng của chương trình "Saturday Night Live". Vào năm 2015, Hart đã tổ chức Comedy Central Roast của Justin Bieber. Vào tháng 10 năm 2016, Hart đang đàm phán để miêu tả Santa Claus trong bộ phim "Dashing Through the Snow", một bộ phim theo chủ đề Disney Christmas vào năm 2017.
+Âm nhạc.
+Như Chocolate Droppa, bí danh của anh, anh đã ký hợp đồng với Motown Records và phát hành Kevin Hart: What Now? (The Mixtape Presents Chocolate Droppa), nhạc nền cho bộ phim đứng cùng tên của anh. Anh đã phát hành đĩa đơn "Push It On Me" gồm có Trey Songz và "Baller Alert" với Migos &amp; T.I.
+Ảnh hưởng.
+Hart đã trích dẫn những cảm hứng hài hước như Bill Cosby, Chris Rock, Eddie Murphy, George Carlin, Jerry Seinfeld, Dave Chappelle và Richard Pryor.
+Cuộc sống cá nhân.
+Kevin và Torrei Hart nộp đơn xin ly dị vào tháng 2 năm 2010, cho thấy sự khác biệt không thể hòa giải được. Hart yêu cầu cùng nhau lưu giữ hai đứa con, Heaven và Hendrix. Việc ly dị đã được hoàn tất vào tháng 11 năm 2011.
+Vào ngày 18 tháng 8 năm 2014, Hart đính hôn với Eniko Parrish. Họ kết hôn vào ngày 13 tháng 8 năm 2016 gần Santa Barbara, California. Con trai của họ Kenzo Kash sinh ngày 21 tháng 11 năm 2017. Vào ngày 15 tháng 12 năm 2017, Hart công khai thừa nhận mình đã lừa dối người vợ đang mang thai của mình.
+
+</doc>
+<doc id="12442008" url="https://vi.wikipedia.org/wiki?curid=12442008" title="Kakegurui">
+Kakegurui
+
+ là một bộ manga Nhật Bản được viết bởi Kawamoto Homura và được vẽ bởi Naomura Tōru, bộ manga bắt đầu được xuất bản trên tạp chí "Gangan Joker" của Square Enix bắt đầu từ năm 2014 và còn được mua bản quyền tiếng Anh bởi Yen Press. Một bộ manga spin-off mang tên "Kakegurui Twin" bắt đầu được xuất bản trên "Gangan Joker" từ năm 2015. Bộ manga được còn chuyển thể thành anime bởi MAPPA, được phát hành tại Nhật Bản từ ngày 1 tháng 7 đến ngày 23 tháng 9 năm 2017 và được Netflix mua bản quyền. Mùa thứ hai của bộ anime sắp được phát hành. Phiên bản live action của "Kakegurui" bắt đầu được phát sóng từ ngày 15 tháng 1 năm 2018. Mùa thứ hai với tựa đề "Kakegurui ××" được chiếu từ 8 tháng 1 đến 26 tháng 3 năm 2019.
+Nội dung.
+ là ngôi trường của nhiều học sinh giàu có và nhiều quyền lực nhất Nhật Bản, những học sinh này được mong đợi sẽ trở thành những nhà lãnh đạo hoặc những chính trị gia trong tương lai. Trong ngôi trường này, cấp bậc của học sinh được xác định dựa trên một hệ thống gồm những ván cờ bạc phức tạp, họ sẽ phải đặt cả vận mệnh của bản thân vào trong những ván bạc đó. Hệ thống này lẫn cuộc sống của các học sinh đều được Hội học sinh quản lý chặt chẽ. Những học sinh mắc nợ phải chịu cảnh trở thành nô lệ (hay còn gọi là vật nuôi) cho chủ nợ của họ. Một ngày nọ, một học sinh tên Jabami Yumeko được chuyển đến học viện, cô đánh bạc chỉ để thỏa mãn bản thân bằng những cung bậc cảm xúc chứ không phải để kiếm tiền hay nâng cao địa vị xã hội. Cô làm đảo lộn nhanh chóng các cấp bậc trong trường và Hội học sinh điên cuồng tìm cách ngăn cô lại.
+Vấn đề văn hóa.
+Tại Nhật Bản, cờ bạc ở hầu hết các nơi là bất hợp pháp, nhất là cờ bạc khi chưa đủ tuổi, và phần lớn các nhân vật trong "Kakegurui" đều đánh bạc khi chưa đủ tuổi. Trong anime, vẽ tất cả các dạng của đánh bạc ở sòng bạc và trò chơi may rủi đều là bất hợp pháp. "Kakegurui" cũng miêu tả cảnh các học sinh sở hữu, khoe và bắn súng.
+
+</doc>
